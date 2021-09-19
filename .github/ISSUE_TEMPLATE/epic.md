@@ -2,7 +2,7 @@
 name: Epic
 about: Groups work into larger (4–6 week) junks
 title: ''
-labels: 'epic'
+labels: epic
 assignees: ''
 
 ---
