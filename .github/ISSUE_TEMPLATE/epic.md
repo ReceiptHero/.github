@@ -1,22 +1,32 @@
 ---
 name: Epic
-about: Groups work into larger (4–6 week) junks
+about: Groups work into milestone level junks
 title: ''
 labels: epic
 assignees: ''
 
 ---
 
-**Problem Statement**
-As a user, I want to be able to [...]
+### Description
+_A brief summary of the epic and what it's intended to accomplish._
 
-**Definition of Done**
-A clear and concise description of what needs to be in place for this EPIC to be considered as done.
+### Objectives
+- List the key goals for this epic.
 
-**First steps**
-1. ...
-2. ...
+### Issues
+- [ ] Task or issue #1 (link to related issue)
+- [ ] Task or issue #2 (link to related issue)
+- [ ] Task or issue #3 (link to related issue)
 
-**Documents & Links**
+### Acceptance Criteria
+- [ ] Define what "done" looks like.
+- [ ] List any specific deliverables or outcomes.
+
+### Stakeholders
+- List of people or teams involved or impacted by the epic.
+
+### Resources
+- [Link to relevant documentation or external resources]
+
 
 
