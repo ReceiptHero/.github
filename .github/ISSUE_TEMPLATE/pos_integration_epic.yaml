@@ -22,16 +22,18 @@ body:
       placeholder: partner.contact@domain.com
     validations:
       required: true
-  - type: date
+  - type: input
     id: tech_meeting_date
     attributes:
       label: Technical meeting held on
+      placeholder: 2024-00-00
     validations:
       required: true
-  - type: date
+  - type: input
     id: credetials_provided_date
     attributes:
       label: Sandbox credentials provided on
+      placeholder: 2024-00-00
     validations:
       required: true
   - type: textarea
