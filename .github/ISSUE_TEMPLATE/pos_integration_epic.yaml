@@ -23,17 +23,17 @@ body:
     validations:
       required: true
   - type: input
-    id: tech_meeting_date
+    id: tech_meeting
     attributes:
       label: Technical meeting held on
-      placeholder: 2024-00-00
+      placeholder: "2024-00-00"
     validations:
       required: true
   - type: input
-    id: credetials_provided_date
+    id: credetials_provided
     attributes:
       label: Sandbox credentials provided on
-      placeholder: 2024-00-00
+      placeholder: "2024-00-00"
     validations:
       required: true
   - type: textarea
