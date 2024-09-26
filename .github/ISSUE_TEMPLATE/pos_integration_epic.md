@@ -1,6 +1,7 @@
 ---
 name: POS Integration EPIC
 description: Master Issue for a POS Integration.
+about: Test
 title: "[POS Integration]: "
 labels: ["EPIC", "POS"]
 projects: ["ReceiptHero/3"]
