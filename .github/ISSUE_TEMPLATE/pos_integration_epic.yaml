@@ -44,6 +44,8 @@ body:
           required: false
         - label: Receipt Archive
           required: false
+        - label: Fiscalization
+          required: false
   - type: textarea
     id: description
     attributes:
