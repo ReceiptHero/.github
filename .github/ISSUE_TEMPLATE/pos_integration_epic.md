@@ -2,7 +2,7 @@
 name: POS Integration Epic
 about: Master issue for POS Integration Projects
 title: ''
-labels: epic, POS
+labels: EPIC, POS
 assignees: ''
 
 ---
