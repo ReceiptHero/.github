@@ -39,8 +39,9 @@ body:
   - type: checkboxes
     attributes:
       label: Features
-      description: Features to be activated
       options:
+        - label: Card Linking
+          required: false
         - label: Dynamic QR Code
           required: false
         - label: Email Receipts
@@ -53,7 +54,6 @@ body:
     id: description
     attributes:
       label: Description
-      description: Short description, including any special characteristics when it comes to this integration project 
       placeholder: This integration is very special because...
     validations:
       required: true
@@ -61,7 +61,6 @@ body:
     id: test_users
     attributes:
       label: Test Users
-      description: Test User Details
       value: |
         1.
         - **Email**: USER1_EMAIL
