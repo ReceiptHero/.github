@@ -2,9 +2,9 @@
 name: POS Integration Epic
 about: Master issue for POS Integration Projects
 title: ''
-labels: EPIC, POS
+labels: ["EPIC", "POS"]
 assignees: ''
-projects: ReceiptHero/3
+projects: ["ReceiptHero/3"]
 
 ---
 
