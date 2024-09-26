@@ -4,6 +4,7 @@ about: Master issue for POS Integration Projects
 title: ''
 labels: EPIC, POS
 assignees: ''
+projects: Development
 
 ---
 
