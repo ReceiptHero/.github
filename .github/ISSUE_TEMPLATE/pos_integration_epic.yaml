@@ -38,13 +38,11 @@ body:
       options:
         - label: Card Linking
           required: false
-        - label: Dynamic QR Code
+        - label: QR Code
           required: false
         - label: Email Receipts
           required: false
         - label: Receipt Archive
-          required: false
-        - label: VAS
           required: false
   - type: textarea
     id: description
