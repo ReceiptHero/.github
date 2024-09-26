@@ -55,8 +55,8 @@ body:
       required: true
   - type: textarea
     id: test_users
-    label: Test Users
     attributes:
+      label: Test Users
       value: |
         1.
         - **Email**: USER1_EMAIL
