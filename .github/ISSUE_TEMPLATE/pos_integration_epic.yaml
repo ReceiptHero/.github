@@ -53,8 +53,9 @@ body:
       placeholder: This integration is very special because...
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     id: test_users
+    label: Test Users
     attributes:
       value: |
         1.
