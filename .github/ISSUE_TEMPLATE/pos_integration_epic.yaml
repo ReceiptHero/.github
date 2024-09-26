@@ -25,17 +25,30 @@ body:
   - type: input
     id: tech_meeting
     attributes:
-      label: Technical meeting held on
+      label: Technical meeting held
       placeholder: "2024-00-00"
     validations:
       required: true
   - type: input
     id: credetials_provided
     attributes:
-      label: Sandbox credentials provided on
+      label: Sandbox credentials provided
       placeholder: "2024-00-00"
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Features
+      description: Features to be activated
+      options:
+        - label: Dynamic QR Code
+          required: false
+        - label: Email Receipts
+          required: false
+        - label: Receipt Archive
+          required: false
+        - label: VAS
+          required: false
   - type: textarea
     id: description
     attributes:
