@@ -4,10 +4,6 @@ title: "[POS Integration]: "
 labels: ["EPIC", "POS"]
 projects: ["ReceiptHero/3"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
     id: sales_person
     attributes:
@@ -57,7 +53,7 @@ body:
       placeholder: This integration is very special because...
     validations:
       required: true
-  - type: textarea
+  - type: markdown
     id: test_users
     attributes:
       label: Test Users
