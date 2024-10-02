@@ -53,6 +53,12 @@ body:
       placeholder: This integration is very special because...
     validations:
       required: true
+  - type: input
+    id: namespace
+    attributes:
+      label: Namespace
+    validations:
+      required: true
   - type: textarea
     id: test_users
     attributes:
